@@ -1,0 +1,16 @@
+body{
+    font-family: monospace;
+    font-size: larger;
+    background-color: grey;
+}
+*{
+    margin: 0;
+}
+h3{
+    margin-top: 50px;
+}
+.screen{
+    min-height: 400px;
+    text-align: center;
+    transition: 3s ease-in;
+}
